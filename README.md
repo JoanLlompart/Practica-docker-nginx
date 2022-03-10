@@ -2,8 +2,17 @@
 Creando una imagen personalizada en docker: Nginx
 
 
+## Instalación
+
+
+Primero ejecutar la imagen llamada nginx, lo que hará que la descargue y la guarde en la caché de docker (las siguientes veces ya no la descarga)
+
+
 
 ![cap 1 ](https://user-images.githubusercontent.com/91556752/157688531-67bc2188-e521-4f5d-ba4a-512409bb0f3d.jpg)
+
+---------------
+
 
 
 
