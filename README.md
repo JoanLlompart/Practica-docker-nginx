@@ -67,4 +67,10 @@ Crea un directorio en Documentos llamado nginx y dentro otro directorio llamado 
 
 
 
+<img width="573" alt="captura html web" src="https://user-images.githubusercontent.com/91556752/157728630-1a282440-57c7-4801-bfc6-121fda7425f4.png">
+
+
+
+
+
 
