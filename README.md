@@ -22,7 +22,6 @@ Primero ejecutar la imagen llamada nginx, lo que hará que la descargue y la gua
 
 
 
-    docker run --rm -d -p 8080:80 --name web nginx
 
 
 ---------------
@@ -32,7 +31,12 @@ Primero ejecutar la imagen llamada nginx, lo que hará que la descargue y la gua
 <img width="891" alt="cap2 Navegador" src="https://user-images.githubusercontent.com/91556752/157688562-d1edfbcc-e653-4e9d-8296-aba9d6a3c8e5.png">
 
 
+----------
 
+      docker stop web
+
+
+-----------
 
 <img width="510" alt="cap 3: stop web" src="https://user-images.githubusercontent.com/91556752/157688586-8997203e-2faa-400e-9024-9dc259602d93.png">
 
