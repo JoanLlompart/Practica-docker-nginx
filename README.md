@@ -11,8 +11,21 @@ Primero ejecutar la imagen llamada nginx, lo que hará que la descargue y la gua
 
 ![cap 1 ](https://user-images.githubusercontent.com/91556752/157688531-67bc2188-e521-4f5d-ba4a-512409bb0f3d.jpg)
 
+      docker run --rm -d -p 8080:80 --name web nginx
+      
+
 ---------------
 
+#### Con el comando anterior, comienza la ejecución del contenedor como un demonio (-d) y publica el puerto 8080 en la red del host. También llamó web al contenedor usando la opción --name.
+
+#### Ya sólo tienes que visitar http://localhost:8080 y a funcionar!
+
+
+
+    docker run --rm -d -p 8080:80 --name web nginx
+
+
+---------------
 
 
 
