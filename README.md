@@ -1,4 +1,4 @@
-<img width="510" alt="cap 3: stop web" src="https://user-images.githubusercontent.com/91556752/157688586-8997203e-2faa-400e-9024-9dc259602d93.png">
+
 # Practica-docker-nginx
 Creando una imagen personalizada en docker: Nginx
 
@@ -47,6 +47,8 @@ Crea un directorio en Documentos llamado nginx y dentro otro directorio llamado 
 
 
 <img width="525" alt="cap4 crear directorios" src="https://user-images.githubusercontent.com/91556752/157688636-09a0102a-a26b-4c7e-b895-ff402fbec41e.png">
+
+
 
 ---------------
 
