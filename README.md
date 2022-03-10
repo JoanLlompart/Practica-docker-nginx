@@ -57,3 +57,14 @@ Crea un directorio en Documentos llamado nginx y dentro otro directorio llamado 
 
 
 <img width="793" alt="cap 5 crear-html" src="https://user-images.githubusercontent.com/91556752/157688686-b2b91149-4542-4f35-b050-8ebf35f3a21d.png">
+
+
+
+
+------
+
+<img width="1101" alt="cap correcta" src="https://user-images.githubusercontent.com/91556752/157726876-e6a3edd3-5085-43b0-8dc2-52c6f7c618dd.png">
+
+
+
+
