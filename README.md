@@ -81,6 +81,23 @@ Ejecutamos el siguiente comando.
 
 --------------
 
+Para crear una imagen personalizada, necesitaremos crear un Dockerfile y agregarle nuestros comandos.
+
+En el mismo directorio, crea un archivo llamado Dockerfile y pega los siguientes comandos.
+
+
+<img width="993" alt="dokerfile creado" src="https://user-images.githubusercontent.com/91556752/158366609-1c3b62bb-36cd-4375-8763-b1bc23d11497.png">
+
+
+    FROM nginx:latest
+    COPY ./site-content/index.html /usr/share/nginx/html/index.html
+
+
+A continuación, copiamos nuestro archivo index.html en el directorio /usr/share/nginx/html dentro del contenedor, sobrescribiendo el archivo index.html predeterminado proporcionado por nginx.
+
+
+
+<img width="780" alt="sobrescribiendo archivo index" src="https://user-images.githubusercontent.com/91556752/158366691-b2835c7f-eee8-4439-b309-78db517a0424.png">
 
 
 
