@@ -63,6 +63,13 @@ Crea un directorio en Documentos llamado nginx y dentro otro directorio llamado 
 
 ------
 
+
+Ejecutamos el siguiente comando.
+
+            docker run --rm -d -p 8080:80 --name web -v ~/Desktop/Documentos/nginx/site-content//:/usr/share/nginx/html nginx
+
+
+
 <img width="1101" alt="cap correcta" src="https://user-images.githubusercontent.com/91556752/157726876-e6a3edd3-5085-43b0-8dc2-52c6f7c618dd.png">
 
 
