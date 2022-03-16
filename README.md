@@ -132,4 +132,24 @@ El comando de compilación le dirá a Docker que ejecute los comandos ubicados e
 
 <img width="849" alt="ultima captura web localhost" src="https://user-images.githubusercontent.com/91556752/158572704-efc52050-50e2-4af7-b627-796c8244f65b.png">
 
+## PARTE B:
+
+ ## ¿Es posible publicar la web de pruebas mediante Microsoft Azure? Describe tu proceso de investigación.
+ 
+
+La respuesta es que si,para ello desde nuestra máquina accedemos a redes y Agregar regla de puerto de entrada.
+
+
+<img width="877" alt="parteb CAP1" src="https://user-images.githubusercontent.com/91556752/158659612-638b901d-0197-4066-92cc-248ba9dd69cd.png">
+
+Cambiamos el servicio a HTTP o HTTPS, en este caso he elegido HTTPS y hacemos click en agregar.
+
+
+
+
+
+<img width="877" alt="ParteB cap2" src="https://user-images.githubusercontent.com/91556752/158659641-dc856603-167a-4f11-b3fb-d8fc297ca07f.png">
+
+
+#### Ahora ya podriamos publicar la web de pruebas desde Azure.
 
