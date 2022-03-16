@@ -100,12 +100,10 @@ A continuación, copiamos nuestro archivo index.html en el directorio /usr/share
 <img width="780" alt="sobrescribiendo archivo index" src="https://user-images.githubusercontent.com/91556752/158366691-b2835c7f-eee8-4439-b309-78db517a0424.png">
 
 
-fallo
-
-<img width="1566" alt="fallo en crear imagen" src="https://user-images.githubusercontent.com/91556752/158368073-d33e0c77-6a48-4b87-a322-a199691dd74f.png">
 
 
 
+<img width="777" alt="cap correcta imagen creada" src="https://user-images.githubusercontent.com/91556752/158571087-c7a3c3ec-01cb-43fd-89d6-3e34757acce7.png">
 
 
 
