@@ -115,4 +115,8 @@ El comando de compilación le dirá a Docker que ejecute los comandos ubicados e
 <img width="777" alt="cap correcta imagen creada" src="https://user-images.githubusercontent.com/91556752/158571087-c7a3c3ec-01cb-43fd-89d6-3e34757acce7.png">
 
 
+#### Ahora podemos ejecutar nuestra imagen en un contenedor, pero esta vez no tenemos que crear un volumen para incluir nuestro html pues ya lo hacemos en el Dockerfile al copiar el archivo.
+
+
+      docker run --rm -d -p 8080:80 --name web webserver
 
