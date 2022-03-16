@@ -119,4 +119,13 @@ El comando de compilación le dirá a Docker que ejecute los comandos ubicados e
 
 
       docker run --rm -d -p 8080:80 --name web webserver
+      
+      
+      
+<img width="777" alt="ultima docker run rm" src="https://user-images.githubusercontent.com/91556752/158572669-fbdfa139-da44-442a-b5d2-3798465f8ed8.png">
+
+
+
+<img width="849" alt="ultima captura web localhost" src="https://user-images.githubusercontent.com/91556752/158572704-efc52050-50e2-4af7-b627-796c8244f65b.png">
+
 
