@@ -101,6 +101,15 @@ A continuación, copiamos nuestro archivo index.html en el directorio /usr/share
 
 
 
+### Para construir nuestra imagen, ejecuta el siguiente comando:
+
+
+      docker build -t webserver .
+
+
+
+El comando de compilación le dirá a Docker que ejecute los comandos ubicados en nuestro Dockerfile. Verás una salida similar en tu terminal a la siguiente:
+
 
 
 <img width="777" alt="cap correcta imagen creada" src="https://user-images.githubusercontent.com/91556752/158571087-c7a3c3ec-01cb-43fd-89d6-3e34757acce7.png">
